@@ -8,7 +8,7 @@ public class Runner {
 
     Person sophie = new Person("Sophie", 37, 6); // new person object
 
-    Person leon = new Person("Leon", 43, 9);
+    Person leon = new Person("Leon", 43, 9); // new person object
 
     System.out.println(reuben.name);
     System.out.println(reuben.age);
