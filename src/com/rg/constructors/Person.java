@@ -4,7 +4,7 @@ public class Person {
 
   public String name;
   public int age;
-  public int shoeSize;
+  public int shoeSize = 11; // Default value
 
   public Person(String name, int age, int shoeSize) {
     this.name = name;
